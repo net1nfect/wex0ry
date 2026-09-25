@@ -1,0 +1,7 @@
+.contribution-tool/state/
+.contribution-tool/journals/
+.contribution-tool/locks/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.venv/
